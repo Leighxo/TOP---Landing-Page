@@ -1,0 +1,57 @@
+*{
+    background-color: #1F2937
+}
+
+header {
+ 
+    color: white
+
+}
+
+
+.nav-links {
+    justify-content: space-around;
+    display: flex;
+    flex: 1;
+    padding: 5px;
+}
+
+.logo {
+    padding: 10px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+.links {
+    display: flex;
+    padding: 16px;
+    gap: 20px;
+}
+
+.section-one {
+    display: flex; 
+    padding: 50px;
+    justify-content: center;
+}
+
+
+.header-one {
+    width: 400px;
+    font-size: 30px;
+    color: white;
+    padding: 10px;
+}
+
+.paragraph {
+    font-size: 20px;
+    color: white;
+}
+
+.image {
+
+padding: 30px;
+
+
+}
+
